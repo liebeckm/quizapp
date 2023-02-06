@@ -15,6 +15,32 @@ header {
   box-shadow: 15px -15px #be7f6a;
 }
 
+.card1,
+.question,
+.answer {
+  background-color: #87adcf;
+  text-align: center;
+  margin: 3px;
+  padding: 1rem;
+}
+
+.answer {
+  color: #f3ead9;
+  background-color: #29282a;
+  border: 2px solid #e6664e;
+  padding: 1rem;
+}
+
+.bookmark {
+  color: #bea768;
+  background-color: #bea768;
+  padding: 20px;
+  border: 2px solid #e6664e;
+  position: absolute;
+  top: 155px;
+  right: 23px;
+}
+
 /* raleway-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
