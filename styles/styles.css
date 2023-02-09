@@ -15,24 +15,26 @@ header {
   box-shadow: 15px -15px #be7f6a;
 }
 
-.card1,
-.question,
-.answer {
+.card {
   background-color: #87adcf;
   text-align: center;
   margin: 3px;
   padding: 1rem;
 }
 
-.answer {
+.question {
+  background-color: #87adcf;
+  text-align: center;
+}
+
+.button-answer {
   color: #f3ead9;
   background-color: #29282a;
   border: 2px solid #e6664e;
   padding: 1rem;
 }
 
-.bookmark {
-  color: #bea768;
+.button-bookmark {
   background-color: #bea768;
   padding: 20px;
   border: 2px solid #e6664e;
