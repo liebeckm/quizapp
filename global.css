@@ -6,43 +6,6 @@
   box-sizing: border-box;
 }
 
-header {
-  text-align: center;
-  padding: 2rem;
-  background-color: #bfbfbd;
-  font-size: 30px;
-  margin: 30px;
-  box-shadow: 15px -15px #be7f6a;
-}
-
-.card {
-  background-color: #87adcf;
-  text-align: center;
-  margin: 3px;
-  padding: 1rem;
-}
-
-.question {
-  background-color: #87adcf;
-  text-align: center;
-}
-
-.button-answer {
-  color: #f3ead9;
-  background-color: #29282a;
-  border: 2px solid #e6664e;
-  padding: 1rem;
-}
-
-.button-bookmark {
-  background-color: #bea768;
-  padding: 20px;
-  border: 2px solid #e6664e;
-  position: absolute;
-  top: 155px;
-  right: 23px;
-}
-
 /* raleway-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */

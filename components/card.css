@@ -1,0 +1,11 @@
+.card {
+  background-color: #87adcf;
+  text-align: center;
+  margin: 3px;
+  padding: 1rem;
+}
+
+.card__question {
+  background-color: #87adcf;
+  text-align: center;
+}
