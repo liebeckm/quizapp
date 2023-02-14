@@ -1,8 +1,12 @@
 .card {
   background-color: #87adcf;
   text-align: center;
-  margin: 3px;
+  margin: 2rem;
   padding: 1rem;
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
 }
 
 .card__question {

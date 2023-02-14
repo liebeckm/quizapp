@@ -1,8 +1,8 @@
 .card__button-bookmark {
   background-color: #bea768;
-  padding: 20px;
-  border: 2px solid #e6664e;
+  padding: 1rem;
+  border: 0.1rem solid #e6664e;
   position: absolute;
-  top: 155px;
-  right: 23px;
+  top: -0.5rem;
+  right: 0.3rem;
 }
