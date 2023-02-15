@@ -1,0 +1,8 @@
+footer {
+  position: fixed;
+  bottom: 0rem;
+  width: 100%;
+  background-color: #be7f6a;
+}
+
+/*there is this gap on the left side of the footer, any ideas how I could remove?*/

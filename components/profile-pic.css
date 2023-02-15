@@ -1,0 +1,6 @@
+.profile-pic {
+  width: 400;
+  height: auto;
+}
+
+/* I have no idea why this class does not work here, instead I added width in profile.html image element directly */
