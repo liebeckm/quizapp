@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+  background-color: #be7f6a;
+}
+
+.navbar--element {
+  background-color: #be7f6a;
+  text-decoration: none;
+}
+
+.navbar--element_on {
+  background-color: #be7f6a;
+  text-decoration: none;
+  color: #f3ead9;
+}

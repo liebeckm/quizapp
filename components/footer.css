@@ -1,0 +1,7 @@
+footer {
+  position: fixed;
+  bottom: 0rem;
+  width: 100%;
+  background-color: #be7f6a;
+  margin: -0.65rem;
+}
